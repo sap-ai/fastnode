@@ -1,5 +1,5 @@
-# Node.js
-
+# Fastnode
+This is a lightweight fast node.js
 Node.js is an open-source, cross-platform JavaScript runtime environment.
 
 For information on using Node.js, see the [Node.js website][].
